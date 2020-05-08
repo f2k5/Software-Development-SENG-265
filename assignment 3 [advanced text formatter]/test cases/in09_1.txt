@@ -1,0 +1,13 @@
+?replace =.*?= SPAM 
+?monthabbr on
+Attention: =TITLE= Having 
+consulted with my colleagues 
+and based on the information 
+gathered from the Nigerian 
+Chambers of Commerce and industry, 
+I have the privilege to request 
+for your assistance to transfer 
+the sum of =AMOUNT= (=AMOUNTSPELLED=) into 
+your accounts. We are now ready to 
+transfer =AMOUNT= and that is where 
+you, =NAME=, come in. Thanks! 12/21/2018

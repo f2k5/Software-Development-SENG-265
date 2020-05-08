@@ -1,0 +1,4 @@
+?maxwidth 24
+?mrgn 4
+?replace What You
+What must acknowledgment should be

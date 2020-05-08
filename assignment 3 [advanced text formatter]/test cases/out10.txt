@@ -1,0 +1,26 @@
+     The  international  standard date notation is
+     YYYY-MM-DD  where  YYYY  is  the  year in the
+     usual  Gregorian calendar, MM is the month of
+     the   year   between   01  (January)  and  12
+     (December),  and  DD  is the day of the month
+     between          01          and          31.
+
+     For  example,  the  fourth day of February in
+     the  year  1995  is  written  in the standard
+     notation
+
+     1995-02-04
+
+     Other  commonly  used notations are e.g. Feb.
+     04,  1995, Apr. 02, 1995, Apr. 02, 1995, Apr.
+     02,  1995,  4-February-1995,  and  many more.
+     Especially   the   first   two  examples  are
+     dangerous,  because  as  both  are used quite
+     often  in  the  U.S. and in Great Britain and
+     both  can not be distinguished, it is unclear
+     whether  Feb.  04,  1995  means 1995-04-02 or
+     1995-02-04.  The  date  notation 2/4/5 has at
+     least    six    reasonable    interpretations
+     (assuming   that   only   the  twentieth  and
+     twenty-first     century    are    reasonable
+     candidates     in     our     life     time).
